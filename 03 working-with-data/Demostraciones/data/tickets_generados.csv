@@ -1,0 +1,5 @@
+﻿Ticket,Asunto,Estado
+TK-001,Error de acceso,Atendido
+TK-002,Impresora sin conexión,Pendiente
+TK-003,Restablecer contraseña,Cerrado
+TK-004,Configuración de correo,Nuevo
